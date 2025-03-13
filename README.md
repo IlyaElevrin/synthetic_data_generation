@@ -9,3 +9,7 @@ Associative rules are used to identify key relationships in the data (e.g., betw
 GAN is trained on real data to generate synthetic transactions that preserve these associative relationships.
 
 This is useful for creating test data or for augmenting data in machine learning tasks.
+
+
+Представляю пример таблицы для обучения в формате subject-verb-object. Например, субъектом может быть клиент или компания, глагол — действие типа "покупка", "оплата", "возврат", а объект — товар или услуга.
+
