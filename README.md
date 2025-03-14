@@ -6,7 +6,7 @@ I present an example of a table in the subject-verb-object format. For example, 
 
 <img src="/doc/img/table_svo.png" alt="table_svo">
 
-You can learn more about <a href="https://habr.com/ru/companies/deepfoundation/articles/804617/">associative data models</a> here
+You can learn more about <a href="https://habr.com/ru/companies/deepfoundation/articles/804617/">associative data models</a> here.
 
 <img src="/doc/img/assiciative_model.png" alt="assiciative_data_model">
 
