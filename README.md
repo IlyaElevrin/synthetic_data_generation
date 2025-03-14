@@ -13,4 +13,4 @@ I present an example of a training table in the subject-verb-object format. For 
 
 You can learn more about <a href="https://habr.com/ru/companies/deepfoundation/articles/804617/">associative data models</a> here
 
-<img src="assiciative_model.png" alt="assiciative_data_model">
+<img src="/doc/img/assiciative_model.png" alt="assiciative_data_model">
