@@ -1,3 +1,6 @@
+<img src="/doc/wordcloud.png" alt="wordcloud.png">
+
+
 # Synthetic data generation model using GAN for associative models
 
 This model is one of the first, if not the first, to generate synthetic data in associative models.
