@@ -1,4 +1,4 @@
-<img src="/doc/wordcloud-Photoroom.png" alt="wordcloud" height="500">
+<img src="/doc/img/wordcloud-Photoroom.png" alt="wordcloud" height="500">
 
 
 # Synthetic data generation model using GAN for associative models
