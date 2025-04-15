@@ -18,3 +18,27 @@ You can learn more about <a href="https://habr.com/ru/companies/deepfoundation/a
 
 A key advantage of the model:
 It preserves associative relationships (e.g., “users who buy X often take Y”), which makes synthetic data not just random, but practically applicable to tasks where hidden patterns are important. This distinguishes it from simply generating random numbers or context-free data.
+
+Examples of use:
+1. Create realistic but secure data for testing transactional applications.
+2. Generating additional data to train models when real data is insufficient or unbalanced.
+3. Replacing real data with synthetic data to comply with GDPR, HIPAA and other regulations.
+4. Simulation of rare or extreme scenarios for risk prediction.
+5. Create visual examples to train employees or customers.
+6. Generation of realistic game scenarios related to economics.
+7. Creating training data for models dealing with textual transactions.
+
+## Documentation
+
+Dependencies: 
+```
+pip install sdv pandas numpy
+```
+
+<a href="https://github.com/IlyaElevrin/synthetic_data_generation/blob/main/doc/example_use.ipynb">Example of use </a>
+
+<a href="https://github.com/IlyaElevrin/synthetic_data_generation/blob/main/model/ctgan_model.pkl">Model weights</a>
+
+## Next
+
+Further plans to improve the model, make it better, write GUI etc
